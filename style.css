@@ -1,0 +1,17 @@
+body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #FDFCF8;
+            color: #3C2A21;
+        }
+        h1, h2, h3, .serif {
+            font-family: 'Cormorant Garamond', serif;
+        }
+        .bg-grain {
+            background-image: url('https://www.transparenttextures.com/patterns/pollen.png');
+        }
+        .coffee-gradient {
+            background: linear-gradient(180deg, rgba(253,252,248,0) 0%, rgba(234,215,187,0.3) 100%);
+        }
+        .arch-image {
+            border-radius: 10rem 10rem 0 0;
+        }
