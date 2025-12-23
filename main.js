@@ -17,3 +17,4 @@ ScrollReveal().reveal('.reveal', {
             duration: 1200, 
             origin: 'right' 
         });
+        // console.log("hello")
